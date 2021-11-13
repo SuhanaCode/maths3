@@ -1,0 +1,39 @@
+body
+{
+    background-image: url(https://highlandernews.org/wp-content/uploads/maxresdefault-15.jpg);
+    border: 20px;
+    border-color: rgb(28, 55, 94);
+    text-align: center;
+}
+
+#div1
+{
+    border-radius: 30px;
+    background-color: white;
+    margin-top: 10%;
+}
+
+#div2
+{
+    border-radius: 30px;
+    background-color: white;
+    margin-top: 20px;;
+}
+
+input
+{
+    width: 1000px;
+    text-align: center;
+}
+
+button
+{
+    color:violet;
+    margin-left: 38%;
+    margin-top: 30px;
+}
+
+i
+{
+    color:tomato;
+}
